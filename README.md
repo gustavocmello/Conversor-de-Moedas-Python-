@@ -22,4 +22,4 @@ Praticar operações matemáticas, entrada de dados e criação de aplicações 
 ## Como executar
 
 ```bash
-https://github.com/gustavocmello/Conversor-de-Moedas-Python-/blob/main/real%20pra%20dollar.py
+https://github.com/gustavocmello/conversor-de-moedas-python
